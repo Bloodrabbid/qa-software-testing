@@ -6,6 +6,8 @@
 
 Пара для игр: [qa-game-testing](https://github.com/Bloodrabbid/qa-game-testing).
 
+**Дополнения сверх книги** (помечены в скилле **[вне книги]**, источники — в конце `SKILL.md`): OWASP API Security Top 10, правила UI-автотестов по гайду Playwright, флейки с цифрами Google, HTSM/SFDIPOT и оракулы FEW HICCUPPS, сессионное исследовательское тестирование (SBTM), контрактное тестирование, тестирование функций на LLM.
+
 ## Установка
 
 Скопируй `SKILL.md` в папку скиллов Claude (например, `~/.claude/skills/qa-software-testing/SKILL.md`) или загрузи в настройках Claude.
